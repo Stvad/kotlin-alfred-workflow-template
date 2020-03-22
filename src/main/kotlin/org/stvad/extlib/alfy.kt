@@ -1,6 +1,6 @@
-package org.stvad.fuzzy.extlib
+package org.stvad.extlib
 
-import org.stvad.fuzzy.alfred.AlfredResult
+import org.stvad.alfred.AlfredResult
 
 @JsModule("alfy")
 external object alfy {
