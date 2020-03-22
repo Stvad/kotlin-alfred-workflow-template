@@ -110,7 +110,7 @@ cd ../build/js/packages/$package_name
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Human date</string>
+				<string>Kotlin Example Workflow</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
